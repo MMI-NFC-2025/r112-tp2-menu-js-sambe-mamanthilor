@@ -53,12 +53,12 @@ Exemple de modification :
 
 ### Afficher le menu
 
-Les `____` sont à remplacer par les termes corrects.
+Les `___` sont à remplacer par les termes corrects.
 
 Trouvez l'élément `nav` de classe CSS `menu` :
 
 ```js
-nav = document.querySelector("______");
+nav = document.querySelector("___nav___");
 ```
 
 Doit afficher dans la console :
